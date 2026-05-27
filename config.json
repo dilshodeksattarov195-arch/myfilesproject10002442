@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersalculate",
+        "uuid": 9257622,
+        "checksum": "per2ef"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
